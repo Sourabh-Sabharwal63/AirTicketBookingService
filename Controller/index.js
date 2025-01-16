@@ -1,0 +1,1 @@
+module.exports={BookingControllers:require("./BookingController")};
